@@ -473,12 +473,6 @@ body {
   }
 }
 
-@media (max-width: 768px) {
-  .wrapper {
-    overflow: hidden;
-  }
-}
-
 .header {
   position: fixed;
   width: 100%;
